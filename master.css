@@ -57,3 +57,9 @@ body {
   background-color: #242331;
 
 }
+
+@media screen and (max-width:500px) {
+  .text {
+    width: 100%;
+  }
+}
