@@ -6,8 +6,6 @@
 
   padding: 25px;
 
-  border-top: #ffffff;
-
 }
 
 .navigation a {
@@ -16,8 +14,14 @@
 
 }
 
+/* code to add responsiveness for smaller screened devices */
+
 @media screen and (max-width:500px) {
+
   .text {
+
     width: 100%;
+
   }
+
 }

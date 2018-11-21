@@ -4,6 +4,12 @@
 
 }
 
+p{
+
+  font-family:'Noto Sans', 'Oswald', 'Raleway', serif, sans-serif;
+
+}
+
 body {
 
   margin: 0;
@@ -58,8 +64,14 @@ body {
 
 }
 
+/* code to add responsiveness for smaller screened devices */
+
 @media screen and (max-width:500px) {
+
   .text {
+
     width: 100%;
+
   }
+
 }
