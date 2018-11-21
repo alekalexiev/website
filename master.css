@@ -1,10 +1,10 @@
-*{
+* {
 
   box-sizing: border-box;
 
 }
 
-p{
+p {
 
   font-family:'Noto Sans', 'Oswald', 'Raleway', serif, sans-serif;
 
@@ -15,16 +15,6 @@ body {
   margin: 0;
 
   background-color: #6CD4FF;
-
-}
-
-.header {
-
-  background-color: #6CD4FF;
-
-  padding: 25px;
-
-  text-align: center;
 
 }
 
