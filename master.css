@@ -32,10 +32,6 @@ body {
 
 .navigation a {
 
-  border-right: 1px solid #ffffff;
-
-  border-left: 1px solid #ffffff;
-
   float: right;
 
   display: block;
