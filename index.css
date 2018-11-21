@@ -1,0 +1,84 @@
+.text {
+
+  float: left;
+
+  width: 100%;
+
+  padding: 25px;
+
+}
+.text2 {
+
+  float: right;
+
+  width: 33%;
+
+  padding: 25px;
+
+}
+
+.quote{
+
+  text-align: left;
+
+  font-size: 3vw;
+
+}
+
+.quote2{
+
+  font-style: italic;
+
+  text-align: right;
+
+  font-size: 2vw;
+
+}
+
+.quote3{
+
+  text-align: center;
+
+  font-size: 5vw;
+
+}
+
+/* code to add responsiveness for smaller screened devices */
+
+@media screen and (max-width:500px) {
+
+  .text {
+
+    width: 100%;
+
+  }
+
+}
+
+/* code to add responsiveness for smaller screened devices */
+
+@media screen and (max-width:500px) {
+
+  .text2 {
+
+    width: 100%;
+
+  }
+
+}
+
+.button {
+  background-color: #B4396C;
+  border: none;
+  color: #ffffff;
+  padding: 25px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.button1{width: 100%;}
+
+.button:hover {
+  background-color: #A3E7FC;
+}
