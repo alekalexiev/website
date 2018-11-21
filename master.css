@@ -1,0 +1,61 @@
+*{
+
+  box-sizing: border-box;
+
+}
+
+body {
+
+  margin: 0;
+
+  background-color: #6CD4FF;
+
+}
+
+.header {
+
+  background-color: #6CD4FF;
+
+  padding: 25px;
+
+  text-align: center;
+
+}
+
+.navigation {
+
+  overflow: hidden;
+
+  background-color: #031D44;
+
+}
+
+.navigation a {
+
+  border-right: 1px solid #ffffff;
+
+  float: left;
+
+  display: block;
+
+  color: #ffffff;
+
+  text-align: center;
+
+  padding: 25px 25px;
+
+  text-decoration: none;
+
+}
+
+.navigation a:hover {
+
+  background-color: #A3E7FC;
+
+}
+
+.current{
+
+  background-color: #242331;
+
+}
